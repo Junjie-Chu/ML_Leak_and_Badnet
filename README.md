@@ -1,5 +1,5 @@
 # CISPA_codetest
-This is the repository for the cispa code test.  
+This is the repository for the CISPA code test.  
 ***If any help, please give it a star!***  
 ***:>***
 ## Backdoor attack
